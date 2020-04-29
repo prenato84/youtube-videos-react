@@ -12,7 +12,7 @@ class App extends React.Component {
   state = { videos: [], selectedVideo: null };
 
   componentDidMount() {
-    this.onTermSubmit("nodejs");
+    this.onTermSubmit("rocketseat node");
   }
 
   onTermSubmit = async (term) => {

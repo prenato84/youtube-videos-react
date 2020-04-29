@@ -6,9 +6,9 @@ Utiliza React para criação dessa interface.
 
 Para o correto funcionamento, é necessário utilizar uma Chave de API do Youtube que pode ser obtida conforme manual **[SlickRemix - Get API Key for YouTube](https://www.slickremix.com/docs/get-api-key-for-youtube/)**.
 
-Para maiores informações, acesse: **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
+>**!!! Essa chave precisa ser colocada na variável `KEY` em `youtube-video-react/src/components/App.js`.**
 
-**Essa chave precisa ser colocada na variável `KEY` em `youtube-video-react/src/components/App.js`.**
+Para maiores informações, acesse: **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
 
 <p align="center">
   <img src="./assets/projeto.jpg">

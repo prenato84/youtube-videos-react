@@ -2,9 +2,11 @@
 
 Clone simples da interface do Youtube usando chamadas assíncronas à API do Youtube.
 
-Utiliza React.
+Utiliza React para criação de uma interface simples do Youtube.
 
-Para correto funcionamento é necessário utilizar uma Chave de API do Youtube que pode ser obtida conforme manual **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
+Para correto funcionamento é necessário utilizar uma Chave de API do Youtube que pode ser obtida conforme manual **[SlickRemix - Get API Key for YouTube](https://www.slickremix.com/docs/get-api-key-for-youtube/)**.
+
+Para maiores informações acesse: **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
 
 Essa chave precisa se colocada na variável `KEY` em `youtube-video-react/src/components/App.js`
 

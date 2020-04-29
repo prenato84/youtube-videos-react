@@ -6,7 +6,7 @@ Utiliza React.
 
 Para correto funcionamento é necessário utilizar uma Chave de API do Youtube que pode ser obtida conforme manual **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
 
-Essa chave precisa se colocada na variável `API_KEY` em `youtube-video-react/src/actions/index.js`
+Essa chave precisa se colocada na variável `KEY` em `youtube-video-react/src/components/App.js`
 
 <p align="center">
   <img src="./assets/projeto.jpg">

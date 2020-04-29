@@ -2,13 +2,13 @@
 
 Clone simples da interface do Youtube usando chamadas assíncronas à API do Youtube.
 
-Utiliza React para criação de uma interface simples do Youtube.
+Utiliza React para criação dessa interface.
 
-Para correto funcionamento é necessário utilizar uma Chave de API do Youtube que pode ser obtida conforme manual **[SlickRemix - Get API Key for YouTube](https://www.slickremix.com/docs/get-api-key-for-youtube/)**.
+Para o correto funcionamento, é necessário utilizar uma Chave de API do Youtube que pode ser obtida conforme manual **[SlickRemix - Get API Key for YouTube](https://www.slickremix.com/docs/get-api-key-for-youtube/)**.
 
-Para maiores informações acesse: **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
+Para maiores informações, acesse: **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
 
-Essa chave precisa se colocada na variável `KEY` em `youtube-video-react/src/components/App.js`
+Essa chave precisa ser colocada na variável `KEY` em `youtube-video-react/src/components/App.js`.
 
 <p align="center">
   <img src="./assets/projeto.jpg">
@@ -44,10 +44,10 @@ npm start
 
 ### :man_technologist: Pré-requisitos do Ambiente
 
-- Interpretador Javascriot **[Node JS](https://nodejs.org/en/download/)**
+- Interpretador Javascript **[Node JS](https://nodejs.org/en/download/)**
 - Sistema de versionamento **[Git](https://git-scm.com/)**
 
-OBS: caso não deseja utilizar o Git, pode baixar o projeto diretamente da página do GitHub
+OBS: caso não deseje utilizar o Git, pode baixar o projeto diretamente da página do GitHub.
 
 <p align="center">
   <img width="40%" src="./assets/download.jpg">

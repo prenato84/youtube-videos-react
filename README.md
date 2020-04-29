@@ -8,7 +8,7 @@ Para o correto funcionamento, é necessário utilizar uma Chave de API do Youtub
 
 Para maiores informações, acesse: **[Youtube API Key](https://developers.google.com/youtube/registering_an_application?hl=pt-br)**.
 
-Essa chave precisa ser colocada na variável `KEY` em `youtube-video-react/src/components/App.js`.
+**Essa chave precisa ser colocada na variável `KEY` em `youtube-video-react/src/components/App.js`.**
 
 <p align="center">
   <img src="./assets/projeto.jpg">
